@@ -36,3 +36,6 @@
 *.iws
 *.imp
 *.ipr
+
+bin
+build
